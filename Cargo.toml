@@ -1,0 +1,8 @@
+[workspace]
+members = ["remo-api", "remo-home", "remo-sdk"]
+default-members = ["remo-sdk"]
+
+[workspace.package]
+name = "nature-remo"
+authors = ["CRCR"]
+version = "0.1.0"
